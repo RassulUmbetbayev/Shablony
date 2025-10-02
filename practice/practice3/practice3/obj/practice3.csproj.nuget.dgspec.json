@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Расул\\CSProjects\\practice3\\practice3\\practice3.csproj": {}
+    "C:\\Users\\Расул\\CSProjects\\practice\\practice3\\practice3\\practice3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Расул\\CSProjects\\practice3\\practice3\\practice3.csproj": {
+    "C:\\Users\\Расул\\CSProjects\\practice\\practice3\\practice3\\practice3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Расул\\CSProjects\\practice3\\practice3\\practice3.csproj",
+        "projectUniqueName": "C:\\Users\\Расул\\CSProjects\\practice\\practice3\\practice3\\practice3.csproj",
         "projectName": "practice3",
-        "projectPath": "C:\\Users\\Расул\\CSProjects\\practice3\\practice3\\practice3.csproj",
+        "projectPath": "C:\\Users\\Расул\\CSProjects\\practice\\practice3\\practice3\\practice3.csproj",
         "packagesPath": "C:\\Users\\Расул\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Расул\\CSProjects\\practice3\\practice3\\obj\\",
+        "outputPath": "C:\\Users\\Расул\\CSProjects\\practice\\practice3\\practice3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Расул\\AppData\\Roaming\\NuGet\\NuGet.Config"

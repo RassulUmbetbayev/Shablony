@@ -157,26 +157,26 @@ public class Program
     {
         Library library = new Library();
 
-        // Добавляем книги
+
         library.AddBook(new Book("War and Peace", "Leo Tolstoy", "12345", 3));
         library.AddBook(new Book("Crime and Punishment", "Fyodor Dostoevsky", "67890", 2));
 
-        // Регистрируем читателей
+
         library.RegisterReader(new Reader("Ivan", 1));
         library.RegisterReader(new Reader("Anna", 2));
 
         library.ShowBooks();
         library.ShowReaders();
 
-        // Выдача книг
+
         library.BorrowBook("12345", 1);
         library.BorrowBook("12345", 2);
         library.BorrowBook("12345", 2); // нет копий
 
-        // Возврат книги
+
         library.ReturnBook("12345", 1);
 
-        // Удаление книги
+
         library.RemoveBook("67890");
 
         library.ShowBooks();
